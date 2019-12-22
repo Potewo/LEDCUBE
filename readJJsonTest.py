@@ -1,6 +1,6 @@
 import json
 
-with open("test.json", 'r') as f:
+with open("readtest.json", 'r') as f:
     json_data = json.load(f)
 
 name_list = ["A", "B"]
