@@ -1,3 +1,4 @@
+English version: [English-README](English-README.md)
 # LEDCUBE
 現在制作中のLEDCUBEの制御と簡易的なシミュレーターです。
 JSONデータで表示させるデータ(どのLEDを表示させるかどうか)のやりとりをする予定です。
