@@ -18,6 +18,8 @@ tkinterは環境によってインストールが必要な場合もあります�
 - tkinter
 - platform
 
+`pip3 install -r requirements.txt`によって依存しているライブラリをすべてインストールすることができます。
+
 ## 使い方
 python3で実行すると、自動でmatplotlibとtkinterのウィンドウが開きます。
 matplotlibのウィンドウには点が512個描画されています。
